@@ -21,7 +21,7 @@ Berfungsi
 - WiFi
 - Ethernet
 - Bluetooth
-- Multitouch Trackpad (ApplePS2SmartTouchPad.kext)
+- Multitouch Trackpad (ApplePS2SmartTouchPad.kext) *
 - Keyboard (ApplePS2SmartTouchPad.kext)
 - Audio All (Mic/Speaker Internal, earphone) *
 - Brightness Control
@@ -38,3 +38,5 @@ Belum Berfungsi :
 # Jika ada yang ingin menyempurnakan, dipersilahkan :)
 
 * Note: Audio kadang berfungsi beberapa menit terus diam, lalu berfungsi lagi. Mengakalinya dengan antipopd (https://github.com/mttrb/antipopd)
+* https://github.com/gplast/XiaoMi-Pro/tree/master/EFI/CLOVER/kexts/Other/ApplePS2SmartTouchPad.kext
+
