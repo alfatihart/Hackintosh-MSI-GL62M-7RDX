@@ -14,7 +14,7 @@ Spesifikasi Laptop
 - Ethernet      : Atheros AR8171
 - Bluetooth     : Intel(R) Wireless
 - Bootloader    : Opencore 0.7.5
-- OS Version    : MacOS BigSur
+- OS Version    : MacOS BigSur 11.6.2 (20G314)
 - Installer     : Olarila
 
 Berfungsi
