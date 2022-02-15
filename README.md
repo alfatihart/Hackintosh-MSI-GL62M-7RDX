@@ -20,18 +20,19 @@
 **Working**
 - WiFi
 - Ethernet
+- Keyboard
 - Bluetooth
 - Multitouch Trackpad
-- Keyboard
-- Audio All (Mic/Speaker Internal, earphone) *
+- iService, Software Update supported
+- Audio All (Mic/Speaker Internal, earphone)
+- All USB Ports (USB 2.0, 3.0 already mapped)
+- PowerOn, Sleep, PowerOff
 - Brightness Control
 - Function key [Fn]
-- All USB Ports
-- PowerOn, Sleep, PowerOff
 
 **Not Working**
 - dGPU
-- Airdrop
+- Airdrop (not tested)
 - Built in Camera
 - SD card reader
 
@@ -42,5 +43,18 @@
 ### If anyone wants to improve, please :)
 
 **Notes**
-* Audio sometimes works for a few minutes then goes silent, then works again. Outsmart it with antipopd (https://github.com/mttrb/antipopd)
-* Sometimes audio doesn't work, need to restart several times
+* Audio sometimes works for a few minutes then goes silent, then works again. Outsmart it with antipopd
+* Sometimes audio doesn't work, need to restart several times (this issue already fixed)
+
+**Thanks to**
+* https://www.olarila.com
+* https://dortania.github.io
+* https://t.me/HackintoshLover
+* https://youtu.be/gKYp-UUkqi8
+* https://github.com/mttrb/antipopd
+* https://github.com/0ranko0P/GL62M-7RD-Hackintosh
+* https://github.com/chuxubank/MSI-GP62-Hackintosh
+* https://github.com/ForceGT/Hackintosh--MSIGL62M-7RDX
+* https://github.com/jbwharris/hackintosh-msi-GL72M-7RDX
+* https://github.com/LucasDondo/Hackintosh-Lenovo-IdeaPad-330-15IKB-81DE
+* https://drive.google.com/file/d/124EmT4voF6CCPRVk7f44uRo250QMr4Ua/view
