@@ -1,7 +1,7 @@
 # Hackintosh-MSI-GL62M-7RDX
-File EFI bootable Opencore
+### Opencore bootable EFI files
 
-Spesifikasi Laptop
+**Laptop Specifications**
 - Merk          : MSI GL62M 7RDX
 - Processor     : Intel Core i7 7700HQ 
 - Chipset       : Intel® HM175
@@ -13,30 +13,34 @@ Spesifikasi Laptop
 - Wireless LAN  : Intel Dual Band AC 3168
 - Ethernet      : Atheros AR8171
 - Bluetooth     : Intel(R) Wireless
-- Bootloader    : Opencore 0.7.5
-- OS Version    : MacOS BigSur 11.6.2 (20G314)
+- Bootloader    : Opencore 0.7.8
+- OS Version    : macOS BigSur 11.6.2 & Monterey 12.1
 - Installer     : Olarila
 
-Berfungsi
+**Working**
 - WiFi
 - Ethernet
 - Bluetooth
-- Multitouch Trackpad (ApplePS2SmartTouchPad.kext) *
-- Keyboard (ApplePS2SmartTouchPad.kext)
+- Multitouch Trackpad
+- Keyboard
 - Audio All (Mic/Speaker Internal, earphone) *
 - Brightness Control
 - Function key [Fn]
 - All USB Ports
 - PowerOn, Sleep, PowerOff
 
-Belum Berfungsi :
+**Not Working**
 - dGPU
 - Airdrop
 - Built in Camera
 - SD card reader
 
-# Jika ada yang ingin menyempurnakan, dipersilahkan :)
+**Screenshots**
+![Big Sur](https://github.com/alfatihart/Hackintosh-MSI-GL62M-7RDX/blob/main/Screen%20Shot%202022-02-15%20at%2011.12.50.png?raw=true)
+![Monterey](https://github.com/alfatihart/Hackintosh-MSI-GL62M-7RDX/blob/main/Screen%20Shot%202022-02-15%20at%2011.02.42.png?raw=true)
 
-* Note: Audio kadang berfungsi beberapa menit terus diam, lalu berfungsi lagi. Mengakalinya dengan antipopd (https://github.com/mttrb/antipopd)
-* https://github.com/gplast/XiaoMi-Pro/tree/master/EFI/CLOVER/kexts/Other/ApplePS2SmartTouchPad.kext
+### If anyone wants to improve, please :)
 
+**Notes**
+* Audio sometimes works for a few minutes then goes silent, then works again. Outsmart it with antipopd (https://github.com/mttrb/antipopd)
+* Sometimes audio doesn't work, need to restart several times
