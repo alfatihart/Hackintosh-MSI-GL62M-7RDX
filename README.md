@@ -2,14 +2,14 @@
 ### Opencore bootable EFI files
 
 **Laptop Specifications**
-- Merk          : MSI GL62M 7RDX
-- Processor     : Intel Core i7 7700HQ 
+- Brand         : MSI GL62M 7RDX
+- Processor     : Intel Core i7 7700HQ 2,8 GHz
 - Chipset       : Intel® HM175
-- iGPU          : Intel HD Graphics 630 device id 0x591B
-- RAM           : 2x 8GB DDR4 2400 / 19200
+- iGPU          : Intel HD Graphics 630, device id 0x591B
+- RAM           : 2x 8GB DDR4 2400 Mhz / 19200
 - Audio Codec   : ALC899
 - Trackpad      : Synaptics SMBus TouchPad
-- Storage       : Apacher AST280 Sata SSD (Manjaro), HDD 1TB (Windows 10)
+- Storage       : Apacher AST280 Sata SSD (Big Sur), HDD 1TB Built-in (Windows 10, Monterey)
 - Wireless LAN  : Intel Dual Band AC 3168
 - Ethernet      : Atheros AR8171
 - Bluetooth     : Intel(R) Wireless
