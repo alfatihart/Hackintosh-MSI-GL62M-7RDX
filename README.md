@@ -32,8 +32,8 @@
 
 **Not Working**
 - dGPU
-- Airdrop (not tested)
-- Built in Camera
+- Airdrop (not supported)
+- Built-in Camera
 - SD card reader
 
 **Screenshots**
