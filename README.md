@@ -44,7 +44,7 @@
 
 **Notes**
 * Audio sometimes works for a few minutes then goes silent, then works again. Outsmart it with antipopd
-* Sometimes audio doesn't work, need to restart several times (this issue already fixed)
+* Sometimes audio doesn't work, need to restart several times
 
 **Thanks to**
 * https://www.olarila.com
