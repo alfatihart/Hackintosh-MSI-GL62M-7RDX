@@ -31,7 +31,7 @@
 - Function key [Fn]
 
 **Not Working**
-- dGPU
+- dGPU (not supported)
 - Airdrop (not supported)
 - Built-in Camera
 - SD card reader
