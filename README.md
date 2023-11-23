@@ -6,19 +6,19 @@ These are OpenCore 0.7.8 installs for macOS Monterey 12.3 beta and Big Sur 11.6.
 
 | :computer: Specifications                                                    | :thumbsup: Functioning Components               | :no_entry: Non-Functioning Components |
 | ---------------------------------------------------------------------------- | ----------------------------------------------- | ------------------------------------- |
-| Intel HD 630                                                                 | :white_check_mark: Intel HD 630 1536mb working  | :x: nVidia GTX 1050                   |
-| GeForce® GTX 1050 with 2GB GDDR5                                             | :white_check_mark: Wifi                         | :x: SD card reader                    |
-| Intel® HM175 chipset                                                         | :white_check_mark: USB C/3.0                    | :x: Webcam                            |
-| Realtek ALC899                                                               | :white_check_mark: Ethernet port                | :x: AirDrop                           |
+| Intel HD 630                                                                 | :white_check_mark: Intel HD 630 1536Mb working  | :x: nVidia GTX 1050                   |
+| GeForce® GTX 1050 with 2GB GDDR5                                             | :white_check_mark: Wifi                         | :x: SD card reader (not tested yet)   |
+| Intel® HM175 chipset                                                         | :white_check_mark: USB C & 3.0                  | :x: AirDrop                           |
+| Realtek ALC899                                                               | :white_check_mark: Ethernet port                |                                       |
 | 15.6" FHD display 1920x1080                                                  | :white_check_mark: Audio                        |                                       |
 | 16GB 2400MHz DDR4                                                            | :white_check_mark: Microphone                   |                                       |
-| 240GB Apacher AST280 SSD                                                     | :white_check_mark: iCloud & Software Update     |                                       |
-| 1TB HGST HTS721010A9E630 HDD                                                 | :white_check_mark: Sleep/Wake functionality     |                                       |
-| Intel Dual Band AC 3168                                                      | :white_check_mark: Keyboard brightness          |                                       |
+| 500GB SSD WD Black SN770 M.2                                                 | :white_check_mark: iCloud & Software Update     |                                       |
+| 1TB Seagate ST1000VT001 HDD SATA                                             | :white_check_mark: Sleep/Wake functionality     |                                       |
+| Intel WiFi 6E AX210 + BT 5.3                                                 | :white_check_mark: Keyboard brightness          |                                       |
 | Core i7 7700HQ 2.8GHz                                                        | :white_check_mark: Screen brightness adjustment |                                       |
 | Backlight Keyboard (Single-Color, Red)                                       | :white_check_mark: HDMI                         |                                       |
 | HDMI                                                                         | :white_check_mark: Multitouch trackpad          |                                       |
-| [Manufacturers Website](https://www.msi.com/Laptop/GL62M-7RDX/Specification) | :white_check_mark: Bluetooth                    |                                       |
+| [Manufacturers Website](https://www.msi.com/Laptop/GL62M-7RDX/Specification) | :white_check_mark: Webcam                       |                                       |
 
 ### Screenshots
 
